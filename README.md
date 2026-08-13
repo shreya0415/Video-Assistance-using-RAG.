@@ -31,3 +31,19 @@ Video Agent/
 │   └── vector_store.py    
 └── utils/
     └── audio_processor.py
+
+## ⚙️ Prerequisites
+
+Before you begin, ensure you have the following installed on your system:
+
+*   **Python 3.10+**
+*   **FFmpeg** (Required for `yt-dlp` and `Whisper` audio processing)
+
+---
+
+## 🚀 Installation
+
+**1. Clone and enter the repository:**
+```powershell
+git clone [https://github.com/yourusername/video assistance using RAG.git](https://github.com/yourusername/video assistance using RAG.git)
+cd "video assistance using RAG"
